@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.project.glavna.products.EditProductsScreenController">
+    <fx:include source="../menus/menuBar.fxml" />
+    <center>
+        <GridPane BorderPane.alignment="CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="808.7999633789062" minWidth="10.0" prefWidth="808.7999633789062" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="634.3999633789062" minWidth="10.0" prefWidth="472.0000366210937" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="143.0" minHeight="10.0" prefHeight="105.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="402.0" minHeight="10.0" prefHeight="398.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="182.0" minHeight="10.0" prefHeight="12.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <BorderPane.margin>
+                <Insets top="30.0" />
+            </BorderPane.margin>
+            <children>
+                <Label text="Edit product" GridPane.columnSpan="2" GridPane.halignment="CENTER">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Label>
+                <GridPane GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="2" GridPane.rowSpan="2">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="633.0" minWidth="10.0" prefWidth="122.39996337890625" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="779.0" minWidth="10.0" prefWidth="349.60003662109375" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="91.0" minHeight="0.0" prefHeight="0.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="91.0" minHeight="10.0" prefHeight="62.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="91.0" minHeight="10.0" prefHeight="62.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="91.0" minHeight="10.0" prefHeight="62.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="167.0" minHeight="2.0" prefHeight="62.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="252.0" minHeight="10.0" prefHeight="73.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="288.0" minHeight="10.0" prefHeight="74.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="339.0" minHeight="10.0" prefHeight="73.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="339.0" minHeight="10.0" prefHeight="82.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="358.0" minHeight="10.0" prefHeight="228.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <children>
+                        <Label text="Description:" GridPane.halignment="RIGHT" GridPane.rowIndex="9">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <Label fx:id="nameLabel" text="Name:" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <Label fx:id="categoryLabel" text="Category:" GridPane.halignment="RIGHT" GridPane.rowIndex="5">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <Label fx:id="genderLabel" text="Gender:" GridPane.halignment="RIGHT" GridPane.rowIndex="8">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <TextField fx:id="categoryField" maxWidth="-Infinity" prefWidth="300.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="5" />
+                        <TextField fx:id="nameField" maxWidth="-Infinity" prefWidth="300.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="4" />
+                        <Button fx:id="add" mnemonicParsing="false" onAction="#productUpdate" text="Update" GridPane.columnIndex="1" GridPane.rowIndex="10">
+                            <GridPane.margin>
+                                <Insets left="40.0" />
+                            </GridPane.margin>
+                        </Button>
+                        <ComboBox fx:id="genderField" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                            <GridPane.margin>
+                                <Insets left="26.0" />
+                            </GridPane.margin>
+                        </ComboBox>
+                        <Button mnemonicParsing="false" onAction="#delete" text="Delete" GridPane.columnIndex="1" GridPane.rowIndex="10">
+                            <GridPane.margin>
+                                <Insets left="140.0" />
+                            </GridPane.margin>
+                        </Button>
+                        <Label fx:id="idLabel" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                            <GridPane.margin>
+                                <Insets left="120.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <TextArea fx:id="descriptionArea" maxWidth="-Infinity" prefHeight="200.0" prefWidth="300.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="9">
+                            <GridPane.margin>
+                                <Insets />
+                            </GridPane.margin>
+                        </TextArea>
+                        <Label fx:id="colorLabel" text="Colour:" GridPane.halignment="RIGHT" GridPane.rowIndex="6">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <Label fx:id="sizeLabel" text="Size:" GridPane.halignment="RIGHT" GridPane.rowIndex="7">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <ComboBox fx:id="colorPicker" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                            <GridPane.margin>
+                                <Insets left="27.0" />
+                            </GridPane.margin>
+                        </ComboBox>
+                        <HBox prefHeight="100.0" prefWidth="200.0" spacing="10.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="7" GridPane.valignment="CENTER">
+                            <children>
+                                <CheckBox mnemonicParsing="false" text="XS" fx:id="xs" />
+                                <CheckBox fx:id="s" mnemonicParsing="false" text="S" />
+                                <CheckBox fx:id="m" mnemonicParsing="false" text="M" />
+                                <CheckBox fx:id="l" mnemonicParsing="false" text="L" />
+                                <CheckBox mnemonicParsing="false" text="XL" fx:id="xl" />
+                                <CheckBox fx:id="none" mnemonicParsing="false" text="NONE" />
+
+                            </children>
+                            <GridPane.margin>
+                                <Insets bottom="20.0" right="10.0" top="15.0" />
+                            </GridPane.margin>
+                            <padding>
+                                <Insets left="50.0" />
+                            </padding>
+                        </HBox>
+                        <Label fx:id="priceLabel" text="Price:" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
+                            <GridPane.margin>
+                                <Insets right="50.0" />
+                            </GridPane.margin>
+                        </Label>
+                        <TextField fx:id="priceField" maxWidth="-Infinity" prefWidth="300.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
+                    </children>
+                </GridPane>
+                <TableView fx:id="productsTableView" onMouseClicked="#onSelect" prefHeight="402.0" prefWidth="670.0" GridPane.rowIndex="2">
+                    <columns>
+                        <TableColumn fx:id="idColumn" prefWidth="64.80001986026764" style="-fx-alignment: CENTER;" text="ID" />
+                        <TableColumn fx:id="nameColumn" prefWidth="102.40001678466797" style="-fx-alignment: CENTER;" text="Name" />
+                        <TableColumn fx:id="categoryColumn" prefWidth="116.79998779296875" style="-fx-alignment: CENTER;" text="Category" />
+                        <TableColumn fx:id="colorColumn" prefWidth="130.4000244140625" style="-fx-alignment: CENTER;" text="Colour" />
+                        <TableColumn fx:id="sizeColumn" prefWidth="109.60000610351562" style="-fx-alignment: CENTER;" text="Size" />
+                        <TableColumn fx:id="genderColumn" prefWidth="86.4000244140625" style="-fx-alignment: CENTER;" text="Gender" />
+                        <TableColumn fx:id="descriptionColumn" prefWidth="96.0" style="-fx-alignment: CENTER;" text="Description" />
+                        <TableColumn fx:id="priceColumn" prefWidth="96.0" style="-fx-alignment: CENTER;" text="Price" />
+                    </columns>
+                </TableView>
+            </children>
+        </GridPane>
+    </center>
+</BorderPane>

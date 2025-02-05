@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane cache="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" styleClass="root" stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.project.glavna.cart.CartController">
+    <fx:include source="../menus/menuBar.fxml" />
+    <bottom>
+        <GridPane BorderPane.alignment="CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+        </GridPane>
+    </bottom>
+    <right>
+        <GridPane BorderPane.alignment="CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="400.0" minWidth="10.0" prefWidth="400.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="422.20001220703125" minWidth="10.0" prefWidth="410.20001220703125" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="300.0" minWidth="10.0" prefWidth="300.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="300.0" minWidth="10.0" prefWidth="300.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <BorderPane.margin>
+                <Insets top="40.0" />
+            </BorderPane.margin>
+            <children>
+                <Label text="Cart" textAlignment="CENTER" textOverrun="CENTER_WORD_ELLIPSIS" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="TOP">
+                    <font>
+                        <Font name="Century" size="53.0" />
+                    </font>
+                    <GridPane.margin>
+                        <Insets top="50.0" />
+                    </GridPane.margin>
+                </Label>
+                <TableView fx:id="cartTableView" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: white;" GridPane.columnSpan="3" GridPane.rowIndex="1" GridPane.rowSpan="2">
+                    <columns>
+                        <TableColumn fx:id="idColumn" prefWidth="73.60000306367874" style="-fx-alignment: CENTER;" text="ID" />
+                        <TableColumn fx:id="nameColumn" prefWidth="136.79998779296875" style="-fx-alignment: CENTER;" text="Name" />
+                        <TableColumn fx:id="categoryColumn" prefWidth="160.8000030517578" style="-fx-alignment: CENTER;" text="Category" />
+                        <TableColumn fx:id="colorColumn" prefWidth="125.5999755859375" style="-: CENTER;" text="Color" />
+                        <TableColumn fx:id="sizeColumn" prefWidth="58.4000244140625" style="-fx-alignment: CENTER;" text="Size" />
+                        <TableColumn fx:id="genderColumn" prefWidth="56.0" style="-fx-alignment: CENTER;" text="Gender" />
+                        <TableColumn fx:id="descriptionColumn" prefWidth="233.5999755859375" style=": CENTER;" text="Description" />
+                        <TableColumn fx:id="priceColumn" prefWidth="84.0" style="-fx-alignment: CENTER;" text="Price" />
+                        <TableColumn fx:id="quantityColumn" prefWidth="88.7999267578125" style="-fx-alignment: CENTER;" text="Quantity" />
+                    </columns>
+                </TableView>
+                <Button mnemonicParsing="false" onAction="#buyFromCart" style="-fx-background-color: #FFFFFF;" text="Kupi" GridPane.columnIndex="3" GridPane.rowIndex="2">
+                    <GridPane.margin>
+                        <Insets left="50.0" />
+                    </GridPane.margin>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#removeFromCart" style="-fx-background-color: WHITE;" styleClass="button-1" text="Obrisi" GridPane.columnIndex="3" GridPane.rowIndex="1">
+                    <GridPane.margin>
+                        <Insets left="50.0" />
+                    </GridPane.margin>
+                </Button>
+            </children>
+        </GridPane>
+    </right>
+</BorderPane>

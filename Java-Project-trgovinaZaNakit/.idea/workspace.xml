@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f582df4c-2fcc-4644-a3d1-40c2d4727a35" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Tag Library Descriptor" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LHEJFATBMRTmaiJBmB8YnaRcxq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/Korisnik/Desktop/Java-Project-trgovinaZaNakit/src/main/java/hr/java/projekt",
+    "last_opened_file_path": "C:/Users/Korisnik/Pictures/Java-Project-trgovinaZaNakit",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Korisnik\Downloads\TVZ-DRUGA_GODINA\TVZ\Java-Project-trgovinaZaNakit\dat\changes\users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Korisnik\Desktop\Java-Project-trgovinaZaNakit\src\main\resources\fxml\images" />
+      <recent name="C:\Users\Korisnik\Downloads\TVZ-DRUGA_GODINA\TVZ\Java-Project-trgovinaZaNakit\src\main\resources\fxml\admin" />
+      <recent name="C:\Users\Korisnik\Downloads\TVZ-DRUGA_GODINA\TVZ\Java-Project-trgovinaZaNakit\src\main\resources\fxml\profile" />
+      <recent name="C:\Users\Korisnik\Downloads\TVZ-DRUGA_GODINA\TVZ\Java-Project-trgovinaZaNakit\src\main\resources\fxml\" />
+      <recent name="C:\Users\Korisnik\Downloads\TVZ-DRUGA_GODINA\TVZ\Java-Project-trgovinaZaNakit\src\main\resources\fxml" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hr.java.projekt" />
+      <recent name="hr.java.projekt.glavna" />
+      <recent name="hr.java.projekt.entiteti" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProjectApplication">
+    <configuration name="ProjectApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.java.project.ProjectApplication" />
+      <module name="Java-Project-trgovinaZaNakit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.java.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hr.java.projekt.glavna.views.resources.css in Java-Project-trgovinaZaNakit" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Java.project-ivkovic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.java.projekt.glavna.views.resources.css.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.java.projekt.glavna.views.resources.css" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f582df4c-2fcc-4644-a3d1-40c2d4727a35" name="Changes" comment="" />
+      <created>1675519534544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675519534544</updated>
+      <workItem from="1675519536955" duration="6730000" />
+      <workItem from="1675776465504" duration="2775000" />
+      <workItem from="1676217315129" duration="13000" />
+      <workItem from="1676227991019" duration="8062000" />
+      <workItem from="1676287725356" duration="3181000" />
+      <workItem from="1676309526745" duration="112000" />
+      <workItem from="1676309649867" duration="302000" />
+      <workItem from="1676312155335" duration="3434000" />
+      <workItem from="1676318509840" duration="24223000" />
+      <workItem from="1676456287633" duration="2705000" />
+      <workItem from="1676459485377" duration="17484000" />
+      <workItem from="1676485745593" duration="9131000" />
+      <workItem from="1676496070746" duration="4917000" />
+      <workItem from="1676531827805" duration="8055000" />
+      <workItem from="1676540847086" duration="5880000" />
+      <workItem from="1676547305921" duration="55000" />
+      <workItem from="1676548100548" duration="905000" />
+      <workItem from="1676550035568" duration="3411000" />
+      <workItem from="1676567419057" duration="3702000" />
+      <workItem from="1678625977427" duration="6450000" />
+      <workItem from="1680082529271" duration="3021000" />
+      <workItem from="1681217974249" duration="6573000" />
+      <workItem from="1681309795801" duration="337000" />
+      <workItem from="1685463649731" duration="86000" />
+      <workItem from="1685464702358" duration="938000" />
+      <workItem from="1685559118022" duration="1370000" />
+      <workItem from="1685560872044" duration="1506000" />
+      <workItem from="1685647267134" duration="3555000" />
+      <workItem from="1685709850816" duration="5413000" />
+      <workItem from="1685800649235" duration="20934000" />
+      <workItem from="1685911087845" duration="10358000" />
+      <workItem from="1685978097838" duration="17407000" />
+      <workItem from="1686757918422" duration="10456000" />
+      <workItem from="1687509929679" duration="11000" />
+      <workItem from="1687512615649" duration="16720000" />
+      <workItem from="1687696919076" duration="1709000" />
+      <workItem from="1687796095927" duration="33117000" />
+      <workItem from="1687890297284" duration="10918000" />
+      <workItem from="1688215786221" duration="19587000" />
+      <workItem from="1688407572594" duration="1258000" />
+      <workItem from="1688408877721" duration="714000" />
+      <workItem from="1688409757389" duration="7982000" />
+      <workItem from="1688457360741" duration="34458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="226" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/LoginController.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/AddUserController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/EditUserController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/user/EditUserController.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Product.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="614" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Product.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Product.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Product.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="617" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="662" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="669" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="673" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="674" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="675" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Change.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="682" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Change.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="728" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="729" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="730" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="732" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="734" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="735" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="736" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="737" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="762" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="763" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="764" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="785" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="787" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="788" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="789" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="790" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="791" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="793" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>185</line>
+          <option name="timeStamp" value="794" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="814" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="815" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="816" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/MenuBarController.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="825" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="833" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="836" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="850" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>185</line>
+          <option name="timeStamp" value="857" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="859" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="860" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="861" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="862" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="863" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="872" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="873" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="874" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="892" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="904" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="905" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="906" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="907" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="908" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="913" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="914" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="915" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="916" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="917" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="919" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="920" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="921" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="922" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="926" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="928" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="929" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="931" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="933" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="943" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="945" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="947" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="951" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="952" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="953" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="954" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="955" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="956" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="957" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="958" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="959" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="962" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="963" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="964" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="965" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="966" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="967" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="968" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="969" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="970" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="971" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="972" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="974" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="975" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="980" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="984" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="985" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="986" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="987" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="988" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="989" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="990" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="991" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="997" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="998" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="999" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="1000" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="1001" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="1003" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="1004" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="1006" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1007" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="1008" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1009" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="1010" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="1023" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="1024" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1025" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="1026" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="1027" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="1028" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1030" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/AllProductsScreenController.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="1031" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="1097" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="1098" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="1099" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="1100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="1101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="1102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="1103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="1104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="1105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="1106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="1107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="1108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="1109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="1110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/MenuScreenController.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="1206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="1207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="1208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="1209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>223</line>
+          <option name="timeStamp" value="1210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="1211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>230</line>
+          <option name="timeStamp" value="1212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="1213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="1214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>240</line>
+          <option name="timeStamp" value="1215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="1216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>251</line>
+          <option name="timeStamp" value="1229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>249</line>
+          <option name="timeStamp" value="1230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>248</line>
+          <option name="timeStamp" value="1231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="1232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>253</line>
+          <option name="timeStamp" value="1233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>254</line>
+          <option name="timeStamp" value="1234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="1235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="1236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="1237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="1238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="1239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="1240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="1241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/menu/RegisterController.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="1242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="1243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="1244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="1245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="1246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="1247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>242</line>
+          <option name="timeStamp" value="1248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>244</line>
+          <option name="timeStamp" value="1249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="1251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="1252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="1253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="1260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>224</line>
+          <option name="timeStamp" value="1261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>225</line>
+          <option name="timeStamp" value="1262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="1263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="1264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>198</line>
+          <option name="timeStamp" value="1265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="1266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/UserData.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="1267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/profile/ViewProfileScreenController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/profile/ViewProfileScreenController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="1320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="1324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="1325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="1326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="1327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="1328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="1329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="1330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="1331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="1333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="1334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="1336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="1337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="1338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="1339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/HelperMethods.java</url>
+          <line>70</line>
+          <properties class="hr.java.project.glavna.fxutil.HelperMethods" method="validatePassword">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>196</line>
+          <properties class="hr.java.project.glavna.fxutil.ChangeWriter" method="getChange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>200</line>
+          <properties class="hr.java.project.glavna.fxutil.ChangeWriter" method="setChange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>164</line>
+          <properties class="hr.java.project.glavna.products.EditProductsScreenController" method="delete">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/entiteti/Change.java</url>
+          <line>7</line>
+          <properties class="hr.java.project.entiteti.Change" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="681" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>152</line>
+          <properties class="hr.java.project.glavna.fxutil.ChangeWriter" method="readTimeKorisnik">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="723" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>167</line>
+          <properties class="hr.java.project.glavna.fxutil.ChangeWriter" method="readRoleChangeRoba">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>37</line>
+          <properties class="hr.java.project.glavna.changes.ChangesProductsController" method="initialize">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="761" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>120</line>
+          <properties class="hr.java.project.data.RobaData" method="getProductFromId">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="903" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/products/EditProductsScreenController.java</url>
+          <line>83</line>
+          <properties class="hr.java.project.glavna.products.EditProductsScreenController" method="productUpdate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="911" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/fxutil/ChangeWriter.java</url>
+          <line>103</line>
+          <properties class="hr.java.project.glavna.fxutil.ChangeWriter" method="readRoba">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="961" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/RobaData.java</url>
+          <line>157</line>
+          <properties class="hr.java.project.data.RobaData" method="updateRoba">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="983" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>65</line>
+          <properties class="hr.java.project.glavna.changes.ChangesProductsController" method="onSelect">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="996" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/changes/ChangesProductsController.java</url>
+          <line>78</line>
+          <properties class="hr.java.project.glavna.changes.ChangesProductsController" method="moreInfo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1002" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/CartData.java</url>
+          <line>108</line>
+          <properties class="hr.java.project.data.CartData" method="deleteCart">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1096" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>28</line>
+          <properties class="hr.java.project.glavna.api.EmailUtil" method="sendEmail">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/glavna/api/EmailUtil.java</url>
+          <line>43</line>
+          <properties method="getPasswordAuthentication">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/project/data/DataBase.java</url>
+          <line>13</line>
+          <properties field="DATABASE_FILE" class="hr.java.project.data.DataBase" />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.io.EOFException" memberName="detailMessage" />
+        <PinnedItemInfo parentTag="org.h2.jdbc.JdbcResultSet" memberName="result" />
+        <PinnedItemInfo parentTag="java.lang.NullPointerException" memberName="cause" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((StackTraceElement[])((InvocationTargetException)InvocationTargetException4844_DebugLabel).stackTrace)[49]" custom="java.lang.StackTraceElement[],java.lang.reflect.InvocationTargetException" />
+        <watch expression="((StackTraceElement[])((InvocationTargetException)InvocationTargetException4844_DebugLabel).stackTrace)[49]" custom="java.lang.StackTraceElement[],java.lang.reflect.InvocationTargetException" />
+        <watch expression="idColumn" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

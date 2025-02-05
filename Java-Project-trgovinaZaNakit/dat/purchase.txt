@@ -1,0 +1,17 @@
+--------------------------------------------------
+               Purchase Bill
+--------------------------------------------------
+
+Buyer: Mario
+Order ID: ORDER-20230705224024826
+Order Date: 2023-07-05
+
+Products:
+- Majica kratkih rukava (4.99 EUR)
+- Srebrna ogrlica (25.99 EUR)
+
+Total Price: 30.98 EUR
+
+--------------------------------------------------
+        Thank you for your purchase!
+--------------------------------------------------

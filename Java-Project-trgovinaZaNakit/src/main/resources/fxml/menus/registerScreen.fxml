@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" stylesheets="@../css/style.css" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.project.glavna.menu.RegisterController">
+    <center>
+        <AnchorPane styleClass="root" BorderPane.alignment="CENTER">
+            <Text id="welcome-text" layoutX="560.0" layoutY="298.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome" textAlignment="CENTER">
+                <font>
+                    <Font size="36.0" />
+                </font>
+            </Text>
+            <Text layoutX="390.0" layoutY="329.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter your details below to create an account:" textAlignment="CENTER" wrappingWidth="500.0">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Text>
+            <TextField fx:id="firstNameField" layoutX="523.0" layoutY="349.0" prefHeight="26.0" prefWidth="248.0" promptText="First name" />
+            <TextField fx:id="lastNameField" layoutX="523.0" layoutY="387.0" prefHeight="26.0" prefWidth="248.0" promptText="Last name" />
+            <TextField fx:id="idField" layoutX="523.0" layoutY="425.0" prefHeight="26.0" prefWidth="248.0" promptText="Username" />
+            <TextField fx:id="addressField" layoutX="523.0" layoutY="460.0" prefHeight="26.0" prefWidth="248.0" promptText="Adress" />
+
+            <TextField fx:id="emailField" layoutX="523.0" layoutY="501.0" prefHeight="26.0" prefWidth="248.0" promptText="Email" />
+            <PasswordField fx:id="passwordField" layoutX="523.0" layoutY="539.0" prefHeight="26.0" prefWidth="248.0" promptText="Password" />
+
+            <Button layoutX="523.0" layoutY="602.0" mnemonicParsing="false" onAction="#handleRegisterButtonAction" prefHeight="32.0" prefWidth="248.0" styleClass="primary" text="Register">
+                <font>
+                    <Font size="15.0" />
+                </font>
+            </Button>
+            <Text layoutX="390.0" layoutY="664.0" strokeType="OUTSIDE" strokeWidth="0.0" text="or" textAlignment="CENTER" wrappingWidth="500.0">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Text>
+            <Button layoutX="523.0" layoutY="679.0" mnemonicParsing="false" onAction="#handleLoginButtonAction" prefHeight="32.0" prefWidth="248.0" styleClass="success" text="Login">
+                <font>
+                    <Font size="15.0" />
+                </font>
+            </Button>
+        </AnchorPane>
+    </center>
+</BorderPane>
